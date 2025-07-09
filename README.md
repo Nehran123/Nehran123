@@ -5,6 +5,7 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: I'm a male
 - ⚡ Fun fact: Coding is very fun
+- Finish learning python basics, currently learning data science and learning basics of C++
 
 <!---
 Nehran123/Nehran123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
